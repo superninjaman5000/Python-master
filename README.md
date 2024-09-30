@@ -1,15 +1,4 @@
 Notes
 
-   This is the final project for Day 1 of Angela Yu's 100 Days of Code
+   This is my personal repository tracking my progress while completing the 100 days of coding bootcamp. This is to show my use of GIT, Branchs, pull requests, and commits. This was done with merge requests approval as if it was a live project.
    
-Built with
-
-    Python
-
-What I learned
-
-    Printing
-    Commenting
-    Debugging
-    String Manipulation
-    Variables
