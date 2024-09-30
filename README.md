@@ -1,2 +1,15 @@
-# Python-master
-Personal Python repository to build portfolio of python scripts, based on 100 days of python coding challenge, as well as personal projects and lessons.
+Notes
+
+   This is the final project for Day 1 of Angela Yu's 100 Days of Code
+   
+Built with
+
+    Python
+
+What I learned
+
+    Printing
+    Commenting
+    Debugging
+    String Manipulation
+    Variables
